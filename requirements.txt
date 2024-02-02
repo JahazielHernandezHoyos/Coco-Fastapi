@@ -1,0 +1,9 @@
+ultralytics==8.1.7
+uvicorn[standard]==0.20.0
+gunicorn==20.1.0
+fastapi[all]==0.109.0   
+loguru
+pytest
+pytest-cov
+deep-sort-realtime
+opencv-python
